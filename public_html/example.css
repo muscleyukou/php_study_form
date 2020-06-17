@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    margin: 0 auto;
+    font-family: serif;
+    text-align: center;
+}
+ .todo-form{
+    background-color: white;
+    width:70%;
+    margin: 0 auto;
+    padding: 20px;
+}
+button{
+    margin-top: 15px;
+}
+.todo-list{
+    background-color:white;
+    width: 75%;
+    margin: 0 auto;
+    
+}
